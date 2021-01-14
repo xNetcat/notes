@@ -4,7 +4,7 @@
 
 Installing apps manually sucks so I prefer to use chocolatey. Below is command that installs my apps
 
-```bash
+```powershell
 choco install jre8 7zip winrar blender gimp vscode openjdk8 openjdk11 golang ruby nvm youtube-dl spotify microsoft-teams git ffmpeg vcredist140 vlc dotnetfx vcredist-all whatsapp vcredist2015 firacode github-desktop geforce-game-ready-driver directx obs-studio chromedriver anaconda3 telegram google-backup-and-sync php yarn procexp microsoft-windows-terminal qbittorrent fiddler docker-desktop winpcap authy-desktop googlechrome androidstudio
 ```
 
