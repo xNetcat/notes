@@ -10,7 +10,7 @@ choco install jre8 7zip winrar blender gimp vscode openjdk8 openjdk11 golang rub
 
 ## WSL2
 
-WSL is amazing it allows whole linux potential without creating vm or dualbooting it. Here are commands to enable it.
+WSL is amazing it lets you use whole linux potential without creating vm or dualbooting it.
 
 <details>
 <summary>Installation</summary>
